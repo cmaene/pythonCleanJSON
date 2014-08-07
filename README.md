@@ -16,7 +16,7 @@ https://datacatalog.cookcountyil.gov/api/views/gac8-suhb/rows.json?accessType=DO
 
 
 ### why I made this..
-The python script parses, cleans, formats (see: _clean.json) and also save in CSV file (see: _clean.csv) using data from the cook county (powered by Socrata) JSON data - foreclosures in 2011. 
+The python script parses, cleans, formats (see: _clean.json) an input JSON file and also save in CSV file (see: _clean.csv) using data from Cook county data portal (powered by Socrata) - foreclosures in 2011. 
 
 I was put off by the fact that Socrata data JSON format is NOT properly marked-up (no keys, just values most of the fields - below.) 
 
