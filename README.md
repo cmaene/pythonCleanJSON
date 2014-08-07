@@ -16,8 +16,8 @@ https://datacatalog.cookcountyil.gov/api/views/gac8-suhb/rows.json?accessType=DO
 
 
 ### why I made this..
- - First of all, you can't get all information in CSV (i.e. incomplete location/address information.
- - Second, you can't get all rows in XLSX (i.e. rows gets cut off around September 2011, though the dataset covers all year, January to December 2011.)
+ - First of all, you can't get all information in CSV (i.e. incomplete location/address information.)
+ - Second, you can't get all rows in XLSX (i.e. rows get cut off around September 2011, though the dataset covers all year, January to December 2011.)
 
 This parses, cleans, formats (see: _clean.json) an input JSON file and also saves
 it in the CSV format(see: _clean.csv) using data from Cook county's data portal
